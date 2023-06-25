@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "877466208945",
+    "project_id": "practice-log-app",
+    "storage_bucket": "practice-log-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877466208945:android:1dbb817c74afef29233090",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877466208945-mg5lp0gdsu7a71j9iagr2r8p0rqsfd3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB29AUsybboBSujnV0V52cxU0MwMtWJepE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877466208945-mg5lp0gdsu7a71j9iagr2r8p0rqsfd3q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877466208945-esorjkqm1kpe77ulab6qbg5vcdqlcvb1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
